@@ -9,5 +9,8 @@ class Prac0902ApplicationTests {
     @Test
     void contextLoads() {
     }
-
+/***xuhoumiao ***/
+@Test
+void contextLoads2() {
+}
 }
